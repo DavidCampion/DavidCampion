@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David,</h1>
 <h3 align="center">A pretty decent Developer</h3>
 
-- 👨‍💻 All of my projects are available at [davidccampion.com](https://studioselected.com)
+- 👨‍💻 All of my projects are available at [studioselected.com](https://studioselected.com)
 
 - ⚡ Fun fact **Im very funny**
 
